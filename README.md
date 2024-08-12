@@ -1,0 +1,1 @@
+Ce code aide à la détection de triche. J'ai d'abord utilisé YOLO pour détecter les personnes et les découper des images. Ensuite, j'ai employé un réseau de neurones convolutifs (CNN) pour classifier ces images, en déterminant si la personne triche ou non.
